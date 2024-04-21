@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.45a79a6f.css",
+    "main.js": "/static/js/main.d0f3087a.js",
+    "static/media/Sachi.jpg": "/static/media/Sachi.f41408001587aae72529.jpg",
+    "static/media/linkedin.svg": "/static/media/linkedin.bbb5868ff59c5591b79c243c54900a31.svg",
+    "index.html": "/index.html",
+    "static/media/email.svg": "/static/media/email.cc5481d8a0afeb10fafc05f161e00983.svg",
+    "main.45a79a6f.css.map": "/static/css/main.45a79a6f.css.map",
+    "main.d0f3087a.js.map": "/static/js/main.d0f3087a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.45a79a6f.css",
+    "static/js/main.d0f3087a.js"
+  ]
+}
