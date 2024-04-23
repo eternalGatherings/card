@@ -9,7 +9,7 @@ function Main() {
       <img src={profilePic} className="profile-pic" alt="logo" />
       <div className="name-designation">
         <span className="name">Sachin Kn</span>
-        <span className="designation">Full Stack Developer</span>
+        <span className="designation">Full Stack Developer & Automation tester</span>
         <a
           className="website"
           href="https://www.sachinkn.in/"
