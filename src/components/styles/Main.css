@@ -105,7 +105,7 @@
 }
 
 .about .paragraph, .interests .paragraph {
-    font-size: 11px;
+    font-size: 10px;
     font-weight: 100;
 }
 
@@ -159,7 +159,7 @@
     }
     
     .about .paragraph, .interests .paragraph {
-        font-size: 22px;
+        font-size: 21px;
     }
     
     .about-other {
@@ -212,7 +212,7 @@
     }
     
     .about .paragraph, .interests .paragraph {
-        font-size: 8px;
+        font-size: 7px;
     }
     
     .about-other {
